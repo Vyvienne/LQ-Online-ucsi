@@ -1,6 +1,6 @@
 # ucsi
 
-A new Flutter project.
+A Flutter project of LQ-Online hotel mobile app.
 
 ## Getting Started
 
