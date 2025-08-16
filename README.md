@@ -23,3 +23,4 @@ To run the system locally:
 git clone https://github.com/Vyvienne/LQ-Online-ucsi.git
 cd LQ-Online-ucsi
 # run app
+flutter run
